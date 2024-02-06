@@ -322,6 +322,18 @@
         "2037/38-2041/42"
       ],
       "correctAnswer": "2013/2014-2017/18"
+    },
+
+    {
+      "id":30,
+      "question": "Total Goals in Sustainable Development are",
+      "options":[
+        "12",
+        "14",
+        "18",
+        "17"
+      ],
+      "correctAnswer": "17"
     }
 
   ]
