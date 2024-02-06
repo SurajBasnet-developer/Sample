@@ -334,6 +334,18 @@
         "17"
       ],
       "correctAnswer": "17"
+    },
+
+    {
+      "id": "31",
+      "question": "Sustainable development goals:",
+      "options":[
+        "NZGQGCADIRSRCLLPP",
+        "SDFBVNRRRR",
+        "RTSNZDKJDBJ",
+        "BSTTTDDKKL"
+      ],
+      "correctAnswer": "NZGQGCADIRSRCLLPP"
     }
 
   ]
